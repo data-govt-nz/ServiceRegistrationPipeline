@@ -11,10 +11,10 @@ for f in $FILES
 do
   echo "Processing $f file..."
   output_file=${f%.*}
-  echo $output_file " decrypted"
 
   #decrypt the files
-  gpg --output $output_file --decrypt $f
+  gpg --batch --yes --output $output_file --decrypt $f
+  echo "$output_file decrypted"
 
   #clean up
   rm $f
