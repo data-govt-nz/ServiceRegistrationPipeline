@@ -50,3 +50,4 @@ See [CONTRIBUTING](CONTRIBUTING.md).md
 ## Maintainers
  - Cam Findlay ([camfindlay](https://github.com/camfindlay)) - cam.findlay@dia.govt.nz
  - [Brenda Wallace](brenda.wallace@dia.govt.nz)
+ - [Ersin Buckley](ersin@mediasuite.co.nz)
